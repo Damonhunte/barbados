@@ -101,3 +101,16 @@ body{
     width: 90vw;
     justify-content: space-between;
 }
+.homenav{
+    margin-top: 8%;
+}
+.hometext{
+    margin-bottom: 1%;
+}
+.official{
+    margin-top: 0%;
+    margin-bottom: 5%;
+}
+.welcome{
+    margin-bottom: 6%;
+}
